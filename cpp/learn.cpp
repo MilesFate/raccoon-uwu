@@ -1,3 +1,8 @@
+/* ngl this is just c code with cpp slapped on
+ I already had this but done in c but dont want to add any c code to the repo
+ dont have anything against c but the repo is cpp and python mainly,
+ tldr : its c code but im lazy so now its cpp
+*/
 #include<iostream>
 using namespace std;
 void math(){
