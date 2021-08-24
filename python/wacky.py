@@ -9,7 +9,6 @@ root.geometry("590x250")
 root.configure(background="bisque")
 root.resizable(0,0)
 root.title("SCP Wiki Search")
-root.iconbitmap('C:/Users/bossb/Downloads/index.ico')
 
 #? this allows for random
 def random_wiki():
