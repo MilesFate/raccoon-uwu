@@ -6,15 +6,13 @@ using namespace std;
 void raccoon(){
     string one = " |~-~-~-~-~-~-~|\n"; // pattern one
     string two = " |-~-~-~-~-~-~-|\n"; // pattern two
-
     cout<<" Cheese Grater\n";
     cout<<" _______________\n";
-    cout<<one; 
-    cout<<two; 
-    cout<<one;
-    cout<<two;
-    cout<<one;
-    cout<<two;
+    // i discovered for loops : )
+    for(int i = 0; i < 4; i++){
+        cout<<one; 
+        cout<<two;
+    }
     cout<<" ^~^~^~^~^~^~^~^\n ";
     cout<<"for a raccoon boi\n";
     return ;

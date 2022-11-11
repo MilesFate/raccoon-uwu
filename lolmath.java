@@ -1,5 +1,11 @@
 import java.util.Scanner;
 
+/*
+ * This version of the program is out of date
+ * for a better version go to my dedicated repo 
+ * https://github.com/MilesFate/LolMath
+ * i will keep this just to remind myself how far i have come
+ */
 public class lolmath {
 
     public static void main(String[] args) {

@@ -1,15 +1,15 @@
+# this program is just mostly a joke
+#  it was the first thing i ever made in a vm tho
+# so it stays
 def raccoon():
     one = " |~-~-~-~-~-~-~|"
     two = " |-~-~-~-~-~-~-|"
 
     print(" Cheese Grater")
     print(" _______________")
-    print(one)
-    print(two)
-    print(one)
-    print(two)
-    print(one)
-    print(two)
+    for i in range(0,3):
+        print(one)
+        print(two)
     print(" ^~^~^~^~^~^~^~^")
     print("for a raccoon boi")
     return
